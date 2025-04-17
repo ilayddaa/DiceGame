@@ -1,14 +1,15 @@
+## Vercel Üzerinde Yayın
+
+Bu uygulama [Vercel](https://vercel.com/) üzerinde yayınlanmıştır. Uygulamayı aşağıdaki bağlantıdan ziyaret edebilirsiniz:
+
+[https://dicegame.vercel.app](dice-game-em6trdbyh-ilayddaas-projects.vercel.app)
+
 ## Ekran Görüntüsü
 
 Aşağıda uygulamanın bir ekran görüntüsü bulunmaktadır:
 
 ![Uygulama Ekran Görüntüsü](ss.png)
 
-## Vercel Üzerinde Yayın
-
-Bu uygulama [Vercel](https://vercel.com/) üzerinde yayınlanmıştır. Uygulamayı aşağıdaki bağlantıdan ziyaret edebilirsiniz:
-
-[https://dicegame.vercel.app](dice-game-em6trdbyh-ilayddaas-projects.vercel.app)
 
 # Zar Oyunu
 
