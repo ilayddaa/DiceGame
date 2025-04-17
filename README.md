@@ -1,12 +1,47 @@
-# React + Vite
+## Ekran Görüntüsü
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aşağıda uygulamanın bir ekran görüntüsü bulunmaktadır:
 
-Currently, two official plugins are available:
+![Uygulama Ekran Görüntüsü](ss.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Vercel Üzerinde Yayın
 
-## Expanding the ESLint configuration
+Bu uygulama [Vercel](https://vercel.com/) üzerinde yayınlanmıştır. Uygulamayı aşağıdaki bağlantıdan ziyaret edebilirsiniz:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[https://dicegame.vercel.app](dice-game-em6trdbyh-ilayddaas-projects.vercel.app)
+
+# Zar Oyunu
+
+Bu proje, bir zar oyunu uygulamasıdır. Kullanıcılar zar atarak rastgele sonuçlar elde eder ve oyunun kurallarına göre kazanan belirlenir.
+
+## Kullanılan Teknolojiler
+
+- **HTML5**: Uygulamanın temel yapısı için.
+- **CSS3**: Görsel tasarım ve stil düzenlemeleri için.
+- **JavaScript**: Zar atma işlemleri ve oyun mantığı için.
+- **Node.js**: Backend işlemleri için.
+- **Vercel**: Uygulamanın dağıtımı için.
+
+## Kurulum
+
+1. Bu projeyi klonlayın:
+    ```bash
+    git clone https://github.com/kullaniciadi/DiceGame.git
+    ```
+2. Proje dizinine gidin:
+    ```bash
+    cd DiceGame
+    ```
+3. Gerekli bağımlılıkları yükleyin:
+    ```bash
+    npm install
+    ```
+4. Uygulamayı başlatın:
+    ```bash
+    npm start
+    ```
+
+
+## Katkıda Bulunma
+
+Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
