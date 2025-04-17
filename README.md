@@ -2,7 +2,7 @@
 
 Bu uygulama [Vercel](https://vercel.com/) üzerinde yayınlanmıştır. Uygulamayı aşağıdaki bağlantıdan ziyaret edebilirsiniz:
 
-[https://dicegame.vercel.app](dice-game-em6trdbyh-ilayddaas-projects.vercel.app)
+[https://dicegame.vercel.app](dhttps://dice-game-one-pearl.vercel.app)
 
 ## Ekran Görüntüsü
 
