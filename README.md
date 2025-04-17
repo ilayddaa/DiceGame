@@ -1,5 +1,5 @@
 ## Vercel Üzerinde Yayın
-[dhttps://dice-game-one-pearl.vercel.app](dhttps://dice-game-one-pearl.vercel.app)
+[https://dice-game-one-pearl.vercel.app](https://dice-game-one-pearl.vercel.app)
 
 ## Ekran Görüntüsü
 
