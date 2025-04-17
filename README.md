@@ -39,7 +39,7 @@ Bu proje, bir zar oyunu uygulamasıdır. Kullanıcılar zar atarak rastgele sonu
     ```
 4. Uygulamayı başlatın:
     ```bash
-    npm start
+    npm run dev
     ```
 
 
